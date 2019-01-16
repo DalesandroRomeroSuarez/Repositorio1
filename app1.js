@@ -1,1 +1,1 @@
-console.log('modificando desde Dalesandro Romero Suarez app.js merge.');
+console.log('modificando y haciendo merge al proyecto.');
